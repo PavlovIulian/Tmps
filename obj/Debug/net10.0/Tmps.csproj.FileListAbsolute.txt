@@ -1,0 +1,14 @@
+/home/sunflower/TMPS/Tmps/bin/Debug/net10.0/Tmps
+/home/sunflower/TMPS/Tmps/bin/Debug/net10.0/Tmps.deps.json
+/home/sunflower/TMPS/Tmps/bin/Debug/net10.0/Tmps.runtimeconfig.json
+/home/sunflower/TMPS/Tmps/bin/Debug/net10.0/Tmps.dll
+/home/sunflower/TMPS/Tmps/bin/Debug/net10.0/Tmps.pdb
+/home/sunflower/TMPS/Tmps/obj/Debug/net10.0/Tmps.GeneratedMSBuildEditorConfig.editorconfig
+/home/sunflower/TMPS/Tmps/obj/Debug/net10.0/Tmps.AssemblyInfoInputs.cache
+/home/sunflower/TMPS/Tmps/obj/Debug/net10.0/Tmps.AssemblyInfo.cs
+/home/sunflower/TMPS/Tmps/obj/Debug/net10.0/Tmps.csproj.CoreCompileInputs.cache
+/home/sunflower/TMPS/Tmps/obj/Debug/net10.0/Tmps.dll
+/home/sunflower/TMPS/Tmps/obj/Debug/net10.0/refint/Tmps.dll
+/home/sunflower/TMPS/Tmps/obj/Debug/net10.0/Tmps.pdb
+/home/sunflower/TMPS/Tmps/obj/Debug/net10.0/Tmps.genruntimeconfig.cache
+/home/sunflower/TMPS/Tmps/obj/Debug/net10.0/ref/Tmps.dll
