@@ -236,5 +236,5 @@ Applying these principles results in clean, extensible, and maintainable softwar
 
 ## Author
 
-- **Grigoraș Dumitru FAF-221**
+- **Pavlov Iulain FAF-241**
 - **Laboratory Work 1** – *Techniques and Mechanisms of Software Design (TMPS)*
