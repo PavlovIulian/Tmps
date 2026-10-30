@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zqkK1FeOZDc=",
+  "dgSpecHash": "mzfQgk9FhzU=",
   "success": true,
   "projectFilePath": "/home/sunflower/TMPS/Tmps/Tmps.csproj",
-  "expectedPackageFiles": [
-    "/home/sunflower/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

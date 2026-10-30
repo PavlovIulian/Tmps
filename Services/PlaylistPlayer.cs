@@ -10,7 +10,10 @@ public class PlaylistPlayer
 
     public void Play(IReadablePlaylist playlist)
     {
+        Console.WriteLine($"\n--- Playing Playlist: '{playlist.Name}' ---");
         foreach (var song in _order.Order(playlist.Songs))
-            Console.WriteLine($"Playing: {song.Title} - {song.Artist}");
+        {
+            AudioEngine.Instance.Play(song);
+        }
     }
 }
