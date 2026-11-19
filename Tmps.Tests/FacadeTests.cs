@@ -68,3 +68,4 @@ public class FacadeTests
         Assert.Equal("Resonance", playlist.Songs[1].Title);
     }
 }
+

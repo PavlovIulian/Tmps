@@ -13,3 +13,4 @@ public interface IPlaylistItem
     void Display(int depth = 0);
     IEnumerable<Song> GetAllSongs();
 }
+

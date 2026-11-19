@@ -20,3 +20,4 @@ public abstract class AudioStreamDecorator : IAudioStream
         return _innerStream.Process(song);
     }
 }
+

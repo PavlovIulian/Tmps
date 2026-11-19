@@ -19,3 +19,4 @@ public class BassBoostDecorator : AudioStreamDecorator
         return $"{base.Process(song)} + [BassBoost: +{_gainDb}dB @ 80Hz]";
     }
 }
+

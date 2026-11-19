@@ -34,3 +34,4 @@ public class RemoteCloudSongService : ISongService
         throw new KeyNotFoundException($"Track '{trackId}' not found in remote catalog.");
     }
 }
+

@@ -50,3 +50,4 @@ public class CachedSongServiceProxy : ISongService
     public bool IsCached(string trackId) => _cache.ContainsKey(trackId);
     public void ClearCache() => _cache.Clear();
 }
+

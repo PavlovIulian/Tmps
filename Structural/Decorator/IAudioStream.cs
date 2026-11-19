@@ -10,3 +10,4 @@ public interface IAudioStream
 {
     string Process(Song song);
 }
+

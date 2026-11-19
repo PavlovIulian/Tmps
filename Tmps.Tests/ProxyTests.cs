@@ -69,3 +69,4 @@ public class ProxyTests
         Assert.Contains("requires premium licensing", ex.Message);
     }
 }
+

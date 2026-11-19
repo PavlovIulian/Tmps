@@ -19,3 +19,4 @@ public class VolumeNormalizerDecorator : AudioStreamDecorator
         return $"{base.Process(song)} + [Normalized: {_targetLufs} LUFS]";
     }
 }
+

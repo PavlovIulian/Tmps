@@ -91,6 +91,8 @@ The **Decorator Pattern** solves this problem by wrapping an audio stream inside
 
 #### Class Diagram
 
+![Decorator Design Pattern Diagram](diagrams/decorator_pattern.png)
+
 ```mermaid
 classDiagram
     direction TB
@@ -198,6 +200,8 @@ The **Proxy Pattern** introduces `CachedSongServiceProxy`, which stands in place
 
 #### Class Diagram
 
+![Proxy Design Pattern Diagram](diagrams/proxy_pattern.png)
+
 ```mermaid
 classDiagram
     direction LR
@@ -287,6 +291,8 @@ Audio players must organize audio tracks into complex nested hierarchies: standa
 The **Composite Pattern** enables clients to treat individual objects (`Song` leaves) and compositions of objects (`PlaylistGroup` nodes) uniformly through the `IPlaylistItem` interface. Operations like calculating total playback duration or recursively rendering the library tree execute identically across single items and arbitrarily nested trees.
 
 #### Class Diagram
+
+![Composite Design Pattern Diagram](diagrams/composite_pattern.png)
 
 ```mermaid
 classDiagram
@@ -388,6 +394,8 @@ The **Facade Pattern** provides a simple, unified interface (`MusicPlayerFacade`
 
 #### Class Diagram
 
+![Facade Design Pattern Diagram](diagrams/facade_pattern.png)
+
 ```mermaid
 classDiagram
     direction TB
@@ -445,6 +453,8 @@ public string PlayTrack(string trackId, AudioPreset preset = AudioPreset.Standar
 ## Pattern Interaction & Execution Path
 
 The mandatory laboratory requirement specifies that at least one execution path must cross through two or more structural patterns. In our application, a single call to `facade.PlayComponent(...)` passes through **all four structural patterns** alongside the creational patterns from Lab 1:
+
+![Structural Patterns Interaction Pipeline](diagrams/interaction_pattern.png)
 
 ```
 [Client Application]
@@ -718,3 +728,4 @@ Are song instances identical in memory? True
 - **Group FAF-241**
 - **Course:** Techniques and Mechanisms of Software Design (TMPS)  
 - **Technical University of Moldova (UTM)**, FCIM
+

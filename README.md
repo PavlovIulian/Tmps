@@ -115,3 +115,4 @@ dotnet test
 - **Proxy**: Cache hit vs cache miss behavior, delegation verification, access-control exceptions for restricted tracks.
 - **Composite**: Recursive total duration calculation across arbitrary nesting depths, uniform treatment of leaves and groups, empty group handling.
 - **Facade**: Subsystem coordination, preset pipeline construction, integration with Lab 1 `PlaylistBuilder`.
+

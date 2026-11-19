@@ -11,3 +11,4 @@ public interface ISongService
     Song GetSong(string trackId);
     int RemoteFetchCount { get; }
 }
+

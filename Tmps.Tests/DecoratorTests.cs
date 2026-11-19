@@ -79,3 +79,4 @@ public class DecoratorTests
         Assert.Contains("[Reverb: Plate Reverb]", output);
     }
 }
+
